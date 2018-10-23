@@ -1,0 +1,6 @@
+Revert lost pushed commit:
+
+git reset --hard <commitid>
+git clean -f -d
+
+These two commands clean force reset to <commitid>
