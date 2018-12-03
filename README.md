@@ -7,3 +7,9 @@ Useful links in Front-end development and node.js
 * http://blog.krawaller.se/posts/using-d3-js-with-animations-in-react/
 * https://oli.me.uk/2015/09/09/d3-within-react-the-right-way/
 * http://rajapradhan.com/blogs/d3-js-v4-essentials/
+
+
+#React
+1 https://americanexpress.io/faccs-are-an-antipattern/
+2. https://reactpatterns.com/#render-callback
+3. https://reactpatterns.com/
