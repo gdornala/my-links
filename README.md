@@ -13,3 +13,5 @@ Useful links in Front-end development and node.js
 1 https://americanexpress.io/faccs-are-an-antipattern/
 2. https://reactpatterns.com/#render-callback
 3. https://reactpatterns.com/
+
+https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9
