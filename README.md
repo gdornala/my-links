@@ -23,3 +23,6 @@ Loading priorities:
 https://addyosmani.com/blog/script-priorities/
 https://enboard.co/frontend/
 https://houssein.me/progressive-react
+
+Tree shaking:
+https://medium.com/@netxm/what-is-tree-shaking-de7c6be5cadd
