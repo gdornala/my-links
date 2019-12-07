@@ -26,3 +26,12 @@ https://houssein.me/progressive-react
 
 Tree shaking:
 https://medium.com/@netxm/what-is-tree-shaking-de7c6be5cadd
+https://towardsdatascience.com/
+
+Architectural Patterns:
+https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
+
+https://dev.to/
+
+our own map function:
+https://dev.to/dhilipkmr/implementing-our-own-array-map-method-in-javascript-553m
