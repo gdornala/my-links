@@ -35,3 +35,6 @@ https://dev.to/
 
 our own map function:
 https://dev.to/dhilipkmr/implementing-our-own-array-map-method-in-javascript-553m
+
+Query DSL
+https://medium.com/@User3141592/understanding-the-elasticsearch-query-dsl-ce1d67f1aa5b
